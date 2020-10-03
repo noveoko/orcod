@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Orcod:A podcast for the masses</title> <link>https://www.apple.com/itunes/podcasts/</link>
+<language>en-us</language>
+<copyright>© 2019 Marcin Kraszewski</copyright>
+<itunes:author>The Kraszewski brothers</itunes:author>
+<description> A casual converstion between two brothers about various topics, real and imagined.
+</description>
+<itunes:type>serial</itunes:type>
+<itunes:owner> <itunes:name>The Kraszewski brothers</itunes:name>
+<itunes:email>visitwarsaw@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image
+href="https://github.com/noveoko/orcod/tree/master/assets/podcast_image.png"
+/>
+<itunes:category text="Performing Arts">
+<itunes:category text="Comedy Interviews"/> </itunes:category>
+<itunes:explicit>false</itunes:explicit>
+<item>
+<itunes:episodeType>trailer</itunes:episodeType>
+<itunes:title>Episode 1: What is Orcod and more!</itunes:title>
+<description>
+<content:encoded>
+<![CDATA[The Kraszewski brothers discuss everything and anything within reason. Find it here:
+<a
+href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>.]]>
+</content:encoded>
+</description>
+<enclosure
+length="498537"
+type="audio/mpeg"
+url="http://https://github.com/noveoko/orcod/tree/master/audio/audio/orcod_episode_1.mp3"
+/>
+<guid>orcod2323232344</guid>
+<pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+<itunes:duration>1079</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
+<itunes:episodeType>trailer</itunes:episodeType>
+<itunes:title>Episode 2: Not about nothing.</itunes:title>
+<description>
+<content:encoded>
+<![CDATA[The Kraszewski brothers discuss everything and anything within reason. Find it here:
+<a
+href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>.]]>
+</content:encoded>
+</description>
+<enclosure
+length="498537"
+type="audio/mpeg"
+url="http://https://github.com/noveoko/orcod/tree/master/audio/audio/orcod_episode_2.mp3"
+/>
+<guid>orcod2323234434352</guid>
+<pubDate>Tue, 8 Jan 2019 01:15:00 GMT</pubDate>
+<itunes:duration>1079</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss
